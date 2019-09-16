@@ -1,9 +1,11 @@
-# French-English-Chinese Dictionary [法汉词典]
+# French-English-Chinese Dictionary | 法英汉词典
 
 A minimalistic trilingual dictionary
 
-http://italian.org.cn/app/
+极简主义风格的三语词典
 
-http://dictware.co.nf
+www.italian.org.cn/app/
 
-http://fecdict.co.nf
+www.zhangyichi.com
+
+!!!!!!!!!! Temporarily Unavailable !!!!!!!!!!
